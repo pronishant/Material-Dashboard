@@ -1,16 +1,10 @@
-<p align="center">
-  <a href="https://github.com/ng-matero">
-    <img width="150" src="https://avatars1.githubusercontent.com/u/49753463?s=200&v=4">
-  </a>
-</p>
-
 <h1 align="center">
-NG-MATERO
+MATERIAL DASHBOARD
 </h1>
 
 <div align="center">
 
-Ng-Matero is an Angular admin template made with Material components.
+Material Dashboard is an Angular admin template made with Material components.
 
 [![npm](https://img.shields.io/npm/v/ng-matero.svg)](https://www.npmjs.com/package/ng-matero)
 [![GitHub Release Date](https://img.shields.io/github/release-date/ng-matero/ng-matero)](https://github.com/ng-matero/ng-matero/releases)
@@ -37,24 +31,7 @@ Ng-Matero is an Angular admin template made with Material components.
 - Authentication
 - HTTP interceptors
 - Permissions management
-
-## 📖 Documentation
-
-[English](https://nzbin.gitbook.io/ng-matero/v/en/) ｜[简体中文](https://nzbin.gitbook.io/ng-matero/)
-
-## 📦 Compatibility
-
-Which version to use?
-
-| Angular | Material | Ng-Matero | Extensions |
-| ------- | -------- | --------- | ---------- |
-| v13     | v13      | 13.x.x    | 13.x.x     |
-| v12     | v12      | 12.7.4    | 12.7.0     |
-| v11     | v11      | 11.3.2    | 11.5.1     |
-| v10     | v10      | 10.4.1    | 10.16.5    |
-| v9      | v9       | 9.7.2     | 9.11.14    |
-| v8      | v8       | 0.16.0    | 0.9.3      |
-
+- 
 ## 🔧 Installation
 
 The project has support `ng add` yet.
@@ -122,40 +99,6 @@ $ npm run hmr
 ```
 
 Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## 🗺 Roadmap
-
-Check [projects](https://github.com/ng-matero/ng-matero/projects) to know the develop plans.
-
-## 🤝 Contributors
-
-### Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/ng-matero/ng-matero/graphs/contributors"><img src="https://opencollective.com/ng-matero/contributors.svg?width=890&button=false" /></a>
-
-### Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/ng-matero/contribute)]
-
-#### Individuals
-
-<a href="https://opencollective.com/ng-matero"><img src="https://opencollective.com/ng-matero/individuals.svg?width=890"></a>
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/ng-matero/contribute)]
-
-<a href="https://opencollective.com/ng-matero/organization/0/website"><img src="https://opencollective.com/ng-matero/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/ng-matero/organization/1/website"><img src="https://opencollective.com/ng-matero/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/ng-matero/organization/2/website"><img src="https://opencollective.com/ng-matero/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/ng-matero/organization/3/website"><img src="https://opencollective.com/ng-matero/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/ng-matero/organization/4/website"><img src="https://opencollective.com/ng-matero/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/ng-matero/organization/5/website"><img src="https://opencollective.com/ng-matero/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/ng-matero/organization/6/website"><img src="https://opencollective.com/ng-matero/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/ng-matero/organization/7/website"><img src="https://opencollective.com/ng-matero/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/ng-matero/organization/8/website"><img src="https://opencollective.com/ng-matero/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/ng-matero/organization/9/website"><img src="https://opencollective.com/ng-matero/organization/9/avatar.svg"></a>
 
 ## 📃 License
 
